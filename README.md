@@ -92,7 +92,7 @@
 
 * 🎓 MCA – Appearing
 * 🎓 BCA – 76.5%
-* 🎓 Diploma in Computer Engineering
+* 🎓 Diploma in Computer Engineering - 70.56%
 
 ---
 
