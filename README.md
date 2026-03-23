@@ -25,6 +25,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+<a href="https://instagram.com/in/web_withneha" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/neha-mali-bb265122b" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
