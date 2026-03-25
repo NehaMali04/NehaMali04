@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Working on smart web applications
+* 💻 Working on smart web applications
 * 🌱 Learning AI, ML & Cloud technologies
 * 💡 Interested in real-world problem solving
 * 🤝 Open for collaboration
